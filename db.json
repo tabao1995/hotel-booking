@@ -1,0 +1,401 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "SuitOceanView",
+      "quantity": "4",
+      "Room Information": {
+        "Room size": "85.8 m2",
+        "Sleeps": 2,
+        "Bed types": "One King Bed",
+        "Bathroom": "Separate"
+      },
+      "Room Feature": {
+        "Breakfast": "FREE",
+        "Safe": "YES",
+        "Lift": "NO",
+        "TV": "YES",
+        "View": "Bac My An beach"
+      },
+      "Room detail": "French colonial style blends charmingly with traditional Vietnamese interior design.Listen to the sound of the waves and watch the fishermen in their basket boats, while you are relaxing on one of the two outside sofas on the 24 sqm balcony.The suites are adorned with arched ceilings and offer a separate living room and bedroom, two marble bathrooms, two closets, TV for each room. Shiny, polished timber floors compliment the elegant and comfortable furniture.You will enjoy their setting and location on the 4th floor overlooking the unique and untouched “Bac My An beach”. Area: 85.8 sqm. plus 24 sqm. balcony.",
+      "img": [
+        "/src/assets/image/Suite1-1.jpg",
+        "/src/assets/image/Suite1-2.jpg"
+      ],
+      "price": "50000000"
+    },
+    {
+      "id": 2,
+      "name": "OCEANSTUDIOSUITE",
+      "quantity": "2",
+      "Room Information": {
+        "Room size": "40.1 m2",
+        "Sleeps": 2,
+        "Bed types": "One King Bed",
+        "Bathroom": "Separate"
+      },
+      "Room Feature": {
+        "Breakfast": "FREE",
+        "Safe": "YES",
+        "Lift": "NO",
+        "TV": "YES",
+        "View": "Bac My An beach"
+      },
+      "Room detail": "French colonial style blends charmingly with traditional Vietnamese interior design.Listen to the sound of the waves and watch the fishermen in their basket boats, while you are relaxing on one of the two outside sofas on the 24 sqm balcony.The suites are adorned with arched ceilings and offer a separate living room and bedroom, two marble bathrooms, two closets, TV for each room. Shiny, polished timber floors compliment the elegant and comfortable furniture.You will enjoy their setting and location on the 4th floor overlooking the unique and untouched “Bac My An beach”. Area: 85.8 sqm. plus 24 sqm. balcony.",
+      "img": [
+        "/src/assets/image/Suite2.jpg",
+        "/src/assets/image/Suite2-2.jpg"
+      ],
+      "price": "6000000"
+    },
+    {
+      "id": 3,
+      "name": "SuitOceanView2",
+      "quantity": "3",
+      "Room Information": {
+        "Room size": "85.8 m2",
+        "Sleeps": 2,
+        "Bed types": "One King Bed",
+        "Bathroom": "Separate"
+      },
+      "Room Feature": {
+        "Breakfast": "FREE",
+        "Safe": "YES",
+        "Lift": "NO",
+        "TV": "YES",
+        "View": "Bac My An beach"
+      },
+      "Room detail": "French colonial style blends charmingly with traditional Vietnamese interior design.Listen to the sound of the waves and watch the fishermen in their basket boats, while you are relaxing on one of the two outside sofas on the 24 sqm balcony.The suites are adorned with arched ceilings and offer a separate living room and bedroom, two marble bathrooms, two closets, TV for each room. Shiny, polished timber floors compliment the elegant and comfortable furniture.You will enjoy their setting and location on the 4th floor overlooking the unique and untouched “Bac My An beach”. Area: 85.8 sqm. plus 24 sqm. balcony.",
+      "img": [
+        "/src/assets/image/Suite1-1.jpg",
+        "/src/assets/image/Suite1-2.jpg"
+      ],
+      "price": "9000000"
+    },
+    {
+      "id": 4,
+      "name": "OCEANSTUDIOSUITE2",
+      "quantity": "2",
+      "Room Information": {
+        "Room size": "40.1 m2",
+        "Sleeps": 2,
+        "Bed types": "One King Bed",
+        "Bathroom": "Separate"
+      },
+      "Room Feature": {
+        "Breakfast": "FREE",
+        "Safe": "YES",
+        "Lift": "NO",
+        "TV": "YES",
+        "View": "Bac My An beach"
+      },
+      "Room detail": "French colonial style blends charmingly with traditional Vietnamese interior design.Listen to the sound of the waves and watch the fishermen in their basket boats, while you are relaxing on one of the two outside sofas on the 24 sqm balcony.The suites are adorned with arched ceilings and offer a separate living room and bedroom, two marble bathrooms, two closets, TV for each room. Shiny, polished timber floors compliment the elegant and comfortable furniture.You will enjoy their setting and location on the 4th floor overlooking the unique and untouched “Bac My An beach”. Area: 85.8 sqm. plus 24 sqm. balcony.",
+      "img": [
+        "/src/assets/image/Suite2.jpg",
+        "/src/assets/image/Suite2-2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "OCEANSTUDIOSUITE2",
+      "quantity": "2",
+      "Room Information": {
+        "Room size": "40.1 m2",
+        "Sleeps": 2,
+        "Bed types": "One King Bed",
+        "Bathroom": "Separate"
+      },
+      "Room detail": "French colonial style blends charmingly with traditional Vietnamese interior design /n .Listen to the sound of the waves and watch the fishermen in their basket boats, while you are relaxing on one of the two outside sofas on the 24 sqm balcony.The suites are adorned with arched ceilings and offer a separate living room and bedroom, two marble bathrooms, two closets, TV for each room. Shiny, polished timber floors compliment the elegant and comfortable furniture.You will enjoy their setting and location on the 4th floor overlooking the unique and untouched “Bac My An beach”. Area: 85.8 sqm. plus 24 sqm. balcony.",
+      "Room Feature": {
+        "Breakfast": "FREE",
+        "Safe": "YES",
+        "Lift": "NO",
+        "TV": "YES",
+        "View": "Bac My An beach"
+      },
+      "img": [
+        "/src/assets/image/Suite2.jpg",
+        "/src/assets/image/Suite2-2.jpg"
+      ]
+    }
+  ],
+  "booking": [
+    {
+      "CreatDate": "27/08/2023 00:06:38",
+      "confirmCode": "366ee85bfc4b4900c3dc49b62d8dc7f5a79d68afc915a7e1fcc9cfe7197d6e8d4a2c45e8826b2c3407fbf54c8517ad638fe78e2cc0a345910f4c35f73b620ae5",
+      "roomID": [
+        2
+      ],
+      "CheckIn": "29/08/2023",
+      "CheckOut": "31/08/2023",
+      "info": {
+        "name": "Ta Pham Bao Bao",
+        "phone": "0935604945",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": true,
+      "id": 9
+    },
+    {
+      "CreatDate": "27/08/2023 00:06:40",
+      "confirmCode": "fa4560cd0cbf9a7511078640ab6a9fadae9a1af4c7f66fb64af1d8e46655f018e65d7ac9afc30f1990100afb7e14376ef5a31cb8c27380e67044c6fdb626815c",
+      "roomID": [
+        2
+      ],
+      "CheckIn": "29/08/2023",
+      "CheckOut": "31/08/2023",
+      "info": {
+        "name": "Ta Pham Bao Bao",
+        "phone": "0935604945",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": true,
+      "id": 10
+    },
+    {
+      "CreatDate": "27/08/2023 00:06:52",
+      "confirmCode": "7608bb7016e87a33e330d34982f0f57cfef67dd24067b8344fe87855373430e8763932fccf5c66ac2d5f1d1ac3baca96860e3e5fcab3660a5b8bd7ab908f6030",
+      "roomID": [
+        2
+      ],
+      "CheckIn": "29/08/2023",
+      "CheckOut": "31/08/2023",
+      "info": {
+        "name": "Ta Pham Bao Bao",
+        "phone": "0935604945",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": false,
+      "id": 11
+    },
+    {
+      "CreatDate": "27/08/2023 00:06:55",
+      "confirmCode": "80ddf93532107eb1afc7455f9a92ee525855682f4ec02484ede110836207343de3f8867c1517695cadd8b5e19be8ba17dc865c7a7f188c590417efe671d999fb",
+      "roomID": [
+        2
+      ],
+      "CheckIn": "29/08/2023",
+      "CheckOut": "31/08/2023",
+      "info": {
+        "name": "Ta Pham Bao Bao",
+        "phone": "0935604945",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": false,
+      "id": 12
+    },
+    {
+      "CreatDate": "27/08/2023 11:07:55",
+      "confirmCode": "4b7835d57a41e6afb7d1ae91bc24e02fe9f22e059723739ccc350dfdf612966a3bfbca2e056d76cda9bbdeb3bbd29ae9fda940c71b74833bcf9a3936b733efb3",
+      "roomID": [
+        1,
+        2
+      ],
+      "CheckIn": "28/08/2023",
+      "CheckOut": "29/08/2023",
+      "info": {
+        "name": "Ta Pham Bao Bao",
+        "phone": "0935604945",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": true,
+      "id": 13
+    },
+    {
+      "CreatDate": "27/08/2023 11:21:44",
+      "confirmCode": "9f6f5f367f99904b4e65323086e0667f5535b908f474790db3840ba2f75d738fd93df2fde862e7c319a6fe59691182a8c9419b8299281752bcc52bd3f1d3e442",
+      "roomID": [
+        1,
+        2
+      ],
+      "CheckIn": "29/08/2023",
+      "CheckOut": "31/08/2023",
+      "info": {
+        "userName": "admin123",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": false,
+      "id": 14
+    },
+    {
+      "CreatDate": "27/08/2023 11:22:06",
+      "confirmCode": "a22c3675a22243f364388936bbf26f741bfcf678bd96a521a5a6ab6b422842a46a2dfd90a5fc59806ef0205c85fb142c1268e048c00ac8105ce9e4afcc18c58b",
+      "roomID": 2,
+      "CheckIn": "29/08/2023",
+      "CheckOut": "30/08/2023",
+      "info": {
+        "userName": "admin123",
+        "email": "tp2b0001@gmail.com"
+      },
+      "isConfirm": false,
+      "id": 15
+    }
+  ],
+  "page": [
+    {
+      "title": "home",
+      "banner": [
+        "src/assets/image/Herobanner1.jpg",
+        "src/assets/image/Herobanner2.jpg",
+        "src/assets/image/Herobanner3.jpg"
+      ]
+    },
+    {
+      "title": "login",
+      "banner": [
+        "src/assets/image/Herobanner1.jpg"
+      ]
+    },
+    {
+      "title": "rooms",
+      "banner": [
+        "/src/assets/image/banner-room.jpg"
+      ]
+    },
+    {
+      "title": "confirm",
+      "banner": [
+        "/src/assets/image/banner-room.jpg"
+      ]
+    },
+    {
+      "title": "booking",
+      "banner": [
+        "/src/assets/image/banner-room.jpg"
+      ]
+    },
+    {
+      "title": "submit",
+      "banner": [
+        "/src/assets/image/banner-room.jpg"
+      ]
+    },
+    {
+      "title": "culinary",
+      "banner": [
+        "/src/assets/image/banner-culinary.jpg"
+      ]
+    },
+    {
+      "title": "roomdetail",
+      "banner": [
+        "/src/assets/image/banner-culinary.jpg"
+      ]
+    },
+    {
+      "title": "thankyou",
+      "banner": [
+        "/src/assets/image/banner-culinary.jpg"
+      ]
+    },
+    {
+      "title": "meetingandevent",
+      "banner": [
+        "/src/assets/image/Meetingandevent.jpg"
+      ]
+    },
+    {
+      "title": "user",
+      "banner": []
+    }
+  ],
+  "user": [
+    {
+      "userName": "admin",
+      "pwd": "30e843727f31af00fa2ed4801b8e8ba6b461d5c024e81965298e53ebf232a5c29c74e224273f8e03826262fa67c4949b18aa8721b14b217c5b40f535f5217f59",
+      "role": "1",
+      "isConfirm": true,
+      "id": 1
+    },
+    {
+      "userName": "admin123",
+      "pwd": "7df18b45d1d19b6194aef483b0c6d376f9a3cc925f2a919aac149e32d11a1665233ee835942fe9a01b3b012f82d9760d4be148e35ea109085a3fe49a86e153a2",
+      "email": "tp2b0001@gmail.com",
+      "role": "1",
+      "isConfirm": true,
+      "id": 2
+    },
+    {
+      "userName": "admin124",
+      "pwd": "7df18b45d1d19b6194aef483b0c6d376f9a3cc925f2a919aac149e32d11a1665233ee835942fe9a01b3b012f82d9760d4be148e35ea109085a3fe49a86e153a2",
+      "email": "tp2b0001@gmail.com",
+      "role": "1",
+      "isConfirm": false,
+      "id": 3
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "roomId": 1,
+      "GuestName": "ABC",
+      "contact": "0903495543",
+      "feedback": "rất tuyệt",
+      "starRating": 4.5
+    },
+    {
+      "id": 2,
+      "roomId": 3,
+      "GuestName": "ABC",
+      "contact": "0903495543",
+      "feedback": "rất tuyệt",
+      "starRating": 3
+    },
+    {
+      "GuestName": "bao",
+      "contact": "tp2b001",
+      "feedback": "great",
+      "starRating": 4,
+      "roomId": 1,
+      "id": 3
+    },
+    {
+      "GuestName": "good",
+      "contact": "bao ",
+      "feedback": "dsadasda",
+      "starRating": 5,
+      "roomId": 1,
+      "id": 4
+    },
+    {
+      "GuestName": "good",
+      "contact": "bao ",
+      "feedback": "dsadasda",
+      "starRating": 5,
+      "roomId": 1,
+      "id": 5
+    },
+    {
+      "GuestName": "bao",
+      "contact": "09356049495",
+      "feedback": "sdadasda",
+      "starRating": 5,
+      "roomId": 2,
+      "id": 6
+    },
+    {
+      "GuestName": "dsa",
+      "contact": "sads",
+      "feedback": "đấ",
+      "starRating": 4,
+      "roomId": 1,
+      "id": 7
+    },
+    {
+      "GuestName": "Bảo",
+      "contact": "09356049495",
+      "feedback": "rất đẹp\nnhưng ko thoáng lắm",
+      "starRating": 4,
+      "roomId": 1,
+      "id": 8
+    },
+    {
+      "GuestName": "dsadsa",
+      "contact": "dsadas",
+      "feedback": "đâsda",
+      "starRating": 0,
+      "roomId": 1,
+      "id": 9
+    }
+  ]
+}

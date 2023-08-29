@@ -1,0 +1,12 @@
+.userpage {
+    ul{
+        li{
+            border: 1px solid;
+            display: flex;
+            align-items: center;
+            padding-left: 30px;
+            min-height: 50px;
+            gap :30px
+        }
+    }
+}

@@ -1,0 +1,31 @@
+:root{
+    --primarycolor:#046056;
+    --bigtitlecolor: #cbbe73;
+}
+*{
+    scroll-behavior: smooth;
+}
+.section{
+    width: 90%;
+    margin: auto;
+    padding: 40px 0;
+}
+
+a {
+    text-decoration: none;
+    
+
+}
+ h2 {
+    text-align: center;
+    font-size: 38px;
+    font-family: "Playfair Display", serif;
+    color: var(--bigtitlecolor);
+}
+h3 {
+    text-align: center;
+    font-size: 24px;
+    font-family: "Playfair Display", serif;
+    color: var(--bigtitlecolor);
+}
+    

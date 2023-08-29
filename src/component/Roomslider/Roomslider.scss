@@ -1,0 +1,91 @@
+.roomslider{
+    .slick-slide{
+        padding: 0 20px;
+
+    }
+    .room-item{
+        position: relative;
+        
+        &__seclect{
+            position: absolute;
+            z-index: 1000;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #fffff050;
+            svg{
+                width: 50%;
+                height: 50%;
+            }
+        }
+        img{
+            width: 100%;
+        }
+        &__img{
+            
+            position: relative;
+           
+            &__hover{
+                position:absolute ;
+                top: 0;
+                right: 0;
+                left: 0;
+                bottom: 0;
+                justify-content: center;
+                align-items: center;
+                color:#fff;
+                font-size:20px;
+                display: none;
+                p{  cursor: pointer;
+                    border: 2px solid var(--primarycolor);
+                    padding: 6px 12px;
+                    background-color: var(--primarycolor);
+                    line-height: 1.5em;
+                }
+                
+            }
+        }
+        &__img:hover .room-item__img__hover{
+                 display: flex;
+             }
+    }
+    .room-item__content{
+        display: flex;
+        align-items: center;
+        &__info{
+            width: 70%;
+        }
+        &__link{
+            position: relative;
+            width: 30%;
+            a{
+                color:#000!important
+            }
+            &__hoverinfo{
+                display: none;
+                position: absolute;
+                width: 270px;
+                bottom: 20px;
+                background-color: var(--primarycolor);
+                left: -150px;
+                ul{
+                    ::marker{
+                        color: #fff;
+                    }
+                    color: #fff;
+                }
+            }
+            &__icon:hover + .room-item__content__link__hoverinfo{
+                display: block;
+            }
+
+        }
+    }
+    input{  
+        display: none;
+    }
+}

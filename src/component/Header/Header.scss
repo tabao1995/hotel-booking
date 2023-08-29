@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: column;
+   
+    &__first{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap:10%;
+        padding: 10px 5%;
+        align-items: center;
+    }
+}

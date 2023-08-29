@@ -1,0 +1,33 @@
+.header_information{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:40px;
+
+    li {
+       
+        img {
+        width: 100%
+    };
+    &::marker{
+        content:""
+    }
+    }
+    &__adress{
+        display: flex ;
+        gap:4px;
+    }
+    &__another{
+        display: flex;
+        flex-direction: column;
+        &__content{
+            display: flex;
+            margin: 0 10px 10px;
+            gap:4px;
+            
+            a{
+                color: #000;
+                text-decoration: none;
+            }
+        }
+    }
+}

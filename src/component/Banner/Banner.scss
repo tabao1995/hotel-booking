@@ -1,0 +1,27 @@
+.banner {
+    position: relative;
+    aspect-ratio: 1920 / 461;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: #434343;
+    img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 0;
+        bottom: 0;
+    }
+    h1{
+        color:#fff;
+        background-color:transparent;
+        text-align: center;
+        z-index: 4;
+        position: absolute;
+        text-transform: uppercase;
+
+    }
+
+}

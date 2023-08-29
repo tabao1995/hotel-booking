@@ -1,0 +1,22 @@
+footer{
+  background-color: var(--primarycolor);
+  color:#fff;
+  .ant-col{
+    text-align: center;
+      .place-table{
+        td{
+          text-align: center;
+          min-width: 50px;
+        }
+      }
+      ul li::marker{
+        content: "";
+      }
+      ul li {
+        text-align: center;
+      }
+      a{
+        color: #fff;
+      }
+    }
+}
